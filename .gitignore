@@ -1,2 +1,4 @@
 *.png
 pictures
+.Rproj.user
+.RData
